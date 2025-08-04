@@ -1,0 +1,4 @@
+- Greatly simplifiy directory structure
+- Remove pepper from bcrypt password hashing
+- Stop the use of GCP storage for now
+- Keep JWT auth for now
